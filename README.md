@@ -1,8 +1,2 @@
 # matics
 polygon x
-# https://tea.xyz/what-is-this-file
----
-version: 1.0.0
-codeOwners:
-  - '0xf5fE0ba847eD379238cA91E9958325CF85185577'
-quorum: 1
